@@ -2,4 +2,3 @@
 
 [!p[예린's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyyrin&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-dd
