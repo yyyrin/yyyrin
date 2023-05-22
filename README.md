@@ -17,7 +17,7 @@ Contact : qsc130@naver.com
 
 ## 🛠️ Skills
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black) ![Recoil](https://img.shields.io/badge/Recoil-764ABC?logo=Recoil&logoColor=black) ![React Native](https://img.shields.io/badge/React Native-61DAFB?logo=React =black) ![vue](https://img.shields.io/badge/Vue.js-4FC08D?&logo=vue&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black) ![Recoil](https://img.shields.io/badge/Recoil-764ABC?logo=Recoil&logoColor=black) ![React Native](https://img.shields.io/badge/React Native-61DAFB?logo=React =black) ![vue](https://img.shields.io/badge/Vue.js-4FC08D?&logo=vue.js&logoColor=black)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black) ![Html](https://img.shields.io/badge/HTML5-E34F26?&logo=HTML5&logoColor=black) ![css](https://img.shields.io/badge/CSS3-1572B6?&logo=CSS3&logoColor=black) ![python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=black)
 
