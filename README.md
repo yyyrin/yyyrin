@@ -11,7 +11,7 @@ Contact : qsc130@naver.com
 ## ❤️ Interested in
 
 - React
-- Typescript
+- TypeScript
 - JavaScript
 - UI/UX
 
