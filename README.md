@@ -5,7 +5,7 @@ Contact : qsc130@naver.com
 
 ## 📝 Career & Education
 
-- Samsung Software Academy for Youth (2022. 08 ~ 2023. 06)
+- Samsung Software Academy for Youth (2022. 07 ~ 2023. 06)
   - 8th Python Track
 
 ## ❤️ Interested in
