@@ -21,7 +21,8 @@ Contact : qsc130@naver.com
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black) ![Html](https://img.shields.io/badge/HTML5-E34F26?&logo=HTML5&logoColor=black) ![css](https://img.shields.io/badge/CSS3-1572B6?&logo=CSS3&logoColor=black) ![python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=black)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=black) ![jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 
 ## 👀 About me
 
