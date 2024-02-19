@@ -13,7 +13,6 @@ Contact : qsc130@naver.com
 - React
 - TypeScript
 - JavaScript
-- UI/UX
 
 ## 🛠️ Skills
 
